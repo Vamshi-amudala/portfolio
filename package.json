@@ -1,5 +1,9 @@
 {
+  "name": "functions",
+  "version": "1.0.0",
+  "main": "contact.js",
+  "type": "commonjs",
   "dependencies": {
-    "nodemailer": "^7.0.5"
+    "nodemailer": "^6.9.8"
   }
 }
